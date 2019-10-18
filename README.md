@@ -11,3 +11,5 @@ Execute:
 ```
 $ ./ipscan.sh
 ```
+
+![preview](preview/preview.png)
