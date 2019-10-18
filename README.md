@@ -12,4 +12,4 @@ Execute:
 $ ./ipscan.sh
 ```
 
-![preview](preview/preview.png)
+Preview ![preview](preview/preview.png)
